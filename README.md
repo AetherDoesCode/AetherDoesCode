@@ -1,5 +1,5 @@
-## Hi there 👋
-
+## About Me
+Hello! I am Aether, a Game Developer and Software Engineer.
 <!--
 **AetherDoesCode/AetherDoesCode** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
